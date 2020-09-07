@@ -1,2 +1,2 @@
 # Hello-World
-I-cube-lab is located in J5D306
+I-cube-lab is located in NCEPU J5D306 
